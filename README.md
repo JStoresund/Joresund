@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joresund (real name Johan Storesund)
 - 👀 I’m interested in coding and gaming and stuff
 - 🌱 I’m currently learning python, C++, HTML and javascript
-- 💞️ I’m looking to collaborate on pretty much nothing
+- 💞️ If you want to collaborate, please don't hesitate to send a message. But don't call, I hate phone calls
 - 📫 How to reach me: please don't, I'm socially restraint
 
 <!---

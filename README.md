@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joresund (real name Johan Storesund)
+- 👋 Hi, I’m @JStoresund (real name Johan Storesund)
 - 👀 I’m interested in coding and gaming and stuff
 - 🌱 I’m currently learning python, C++, HTML and javascript
 - 💞️ If you want to collaborate, please don't hesitate to send a message. But don't call, I hate phone calls
